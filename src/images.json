@@ -1,11 +1,11 @@
 [
     {
         "name" : 1,
-        "src" : "/images/1.jpg"
+        "src" : "./images/1.jpg"
     },
     {
         "name" : 2,
-        "src" : "/images/2.jpg"
+        "src" : "./images/2.jpg"
     },
     {
         "name" : 3,
